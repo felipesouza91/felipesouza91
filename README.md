@@ -1,16 +1,15 @@
-### Hi there 👋
+# Felipe Souza Santana
 
-<!--
-**felipesouza91/felipesouza91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá!!
+Apaixonado por técnologia desde a primeira vez que eu vi um computador. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:construction_worker: Trabalhando na empresa Renthelp como Help Desk.
+:heart_eyes: Buscando colaborar em projetos Spring.
+:smiley: Em projetos Angular também estou disposto a ajudar com meus conhecimentos.
+:computer: Minha Stack: Java Spring Framework, Angular, ReactJs e Node
+:walking: Aprendendo React Native
+
+:email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FelipeSouzaSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/felipe-souza-santana/](https://www.linkedin.com/in/felipe-souza-santana/))](https://www.linkedin.com/in/felipe-souza-santana/)
+
+
