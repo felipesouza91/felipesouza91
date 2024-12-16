@@ -4,7 +4,7 @@
 Apaixonado por técnologia desde a primeira vez que eu vi um computador. 
 
 
-:construction_worker: Trabalhando na empresa Renthelp como Help Desk.
+:construction_worker: Trabalhando na empresa Supera como Desenvolvedor Java.
 <br/>:heart_eyes: Buscando colaborar em projetos Spring.
 <br/>:smiley: Em projetos Angular também estou disposto a ajudar com meus conhecimentos.
 <br/>:computer: Minha Stack: Java Spring Framework, Angular, ReactJs e Node
