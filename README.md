@@ -20,6 +20,6 @@ Apaixonado por técnologia desde a primeira vez que eu vi um computador.
  
  <br/>
 
-<br/>:email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FelipeSouzaSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/felipe-souza-santana/](https://www.linkedin.com/in/felipe-souza-santana/))](https://www.linkedin.com/in/felipe-souza-santana/)
+<br/>:email: &nbsp; Entre em contato: [![Linkedin Badge](https://img.shields.io/badge/-FelipeSouzaSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/felipe-souza-santana/](https://www.linkedin.com/in/felipe-souza-santana/))](https://www.linkedin.com/in/felipe-souza-santana/)
 
 
